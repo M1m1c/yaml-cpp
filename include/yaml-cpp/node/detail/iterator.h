@@ -7,10 +7,10 @@
 #pragma once
 #endif
 
-#include "yaml-cpp/dll.h"
-#include "yaml-cpp/node/detail/node_iterator.h"
-#include "yaml-cpp/node/node.h"
-#include "yaml-cpp/node/ptr.h"
+#include "../include/yaml-cpp/dll.h"
+#include "../include/yaml-cpp/node/detail/node_iterator.h"
+#include "../include/yaml-cpp/node/node.h"
+#include "../include/yaml-cpp/node/ptr.h"
 #include <cstddef>
 #include <iterator>
 

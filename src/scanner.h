@@ -16,7 +16,7 @@
 #include "ptr_vector.h"
 #include "stream.h"
 #include "token.h"
-#include "yaml-cpp/mark.h"
+#include "../include/yaml-cpp/mark.h"
 
 namespace YAML {
 class Node;
